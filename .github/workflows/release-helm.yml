@@ -24,7 +24,7 @@ jobs:
 
       - name: Update Index
         run: |
-          helm repo index .
+          helm repo index . --url https://raw.githubusercontent.com/gem-ashutoshojha/charts/main
           git config --global user.email "ashutosh.ojha@geminisolutions.com"
           git config --global user.name "Ashutosh Ojha"
           git add index.yaml
