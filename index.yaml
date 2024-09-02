@@ -3,7 +3,7 @@ entries:
   hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-02T11:31:37.479770118Z"
+    created: "2024-09-02T11:31:49.022347155Z"
     description: A Helm chart for Kubernetes
     digest: 91ad7a6d4d4d4f9b4c361230607b93000fe5b1d5913cc469b233e47018db8efa
     name: hello-world
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/gem-ashutoshojha/charts/main/hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-02T11:31:37.479039415Z"
+generated: "2024-09-02T11:31:49.021833079Z"
