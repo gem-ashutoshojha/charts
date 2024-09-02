@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  hello-world:
+  3-tier-app:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-09-02T11:32:22.486244878Z"
+    appVersion: 1.0.0
+    created: "2024-09-02T17:38:19.496802642+05:30"
     description: A Helm chart for Kubernetes
-    digest: 91ad7a6d4d4d4f9b4c361230607b93000fe5b1d5913cc469b233e47018db8efa
-    name: hello-world
+    digest: 0ce76f682bd2e82e9742e86fb9c23746b7a4b143f4d3eed6343d33f0aa53ac60
+    name: 3-tier-app
     type: application
     urls:
-    - https://raw.githubusercontent.com/gem-ashutoshojha/charts/main/hello-world-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-09-02T11:32:22.485669807Z"
+    - 3-tier-app-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-09-02T17:38:19.495358707+05:30"
