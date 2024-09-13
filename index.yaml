@@ -3,12 +3,12 @@ entries:
   3-tier-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-09-02T17:38:19.496802642+05:30"
+    created: "2024-09-13T06:36:18.185713342Z"
     description: A Helm chart for Kubernetes
     digest: 0ce76f682bd2e82e9742e86fb9c23746b7a4b143f4d3eed6343d33f0aa53ac60
     name: 3-tier-app
     type: application
     urls:
-    - 3-tier-app-0.0.1.tgz
+    - https://raw.githubusercontent.com/gem-ashutoshojha/charts/main/3-tier-app-0.0.1.tgz
     version: 0.0.1
-generated: "2024-09-02T17:38:19.495358707+05:30"
+generated: "2024-09-13T06:36:18.185176298Z"
